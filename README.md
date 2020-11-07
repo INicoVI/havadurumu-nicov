@@ -1,2 +1,5 @@
 # havadurumu-nicov
-Fivem Havadurumu Değiştirme Script - NicoV
+Bu script FivemTurk.com için "NicoV" tarafından düzenlenmiştir.
+
+!                     NicoV#0001
+
